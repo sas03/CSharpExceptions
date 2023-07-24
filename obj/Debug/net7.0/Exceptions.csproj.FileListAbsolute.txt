@@ -1,0 +1,15 @@
+C:\Informatique\CSharp\wildschool\Exceptions\bin\Debug\net7.0\Exceptions.exe
+C:\Informatique\CSharp\wildschool\Exceptions\bin\Debug\net7.0\Exceptions.deps.json
+C:\Informatique\CSharp\wildschool\Exceptions\bin\Debug\net7.0\Exceptions.runtimeconfig.json
+C:\Informatique\CSharp\wildschool\Exceptions\bin\Debug\net7.0\Exceptions.dll
+C:\Informatique\CSharp\wildschool\Exceptions\bin\Debug\net7.0\Exceptions.pdb
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\Exceptions.csproj.AssemblyReference.cache
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfoInputs.cache
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfo.cs
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\Exceptions.dll
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\refint\Exceptions.dll
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\Exceptions.pdb
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\Exceptions.genruntimeconfig.cache
+C:\Informatique\CSharp\wildschool\Exceptions\obj\Debug\net7.0\ref\Exceptions.dll
